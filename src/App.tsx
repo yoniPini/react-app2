@@ -7,8 +7,8 @@ function App() {
   // return <TodoList />;
   return (
     <>
-      <TodoForm />
-      <TodoList />
+      {/* <TodoForm /> */}
+      <PostList />
     </>
   );
 }
